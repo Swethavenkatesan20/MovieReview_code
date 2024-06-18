@@ -48,14 +48,14 @@ export const MovieList = ({movieList,setMovieList}) => {
       }
       
 
-      editButton={
+{/*       editButton={
         <IconButton aria-label="share"
           onClick={()=>{
             navigate(`/edit/${element.id}`)
             
           }}><EditNoteIcon/>
         </IconButton>
-      }
+      } */}
       />))
       
     
